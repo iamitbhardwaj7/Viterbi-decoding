@@ -1,0 +1,5 @@
+llamas/VB m´edico/NN
+hay/VB queso/NN
+vemos/VB llamas/NN
+comemos/VB bebemos/VB
+alimentos/NN bebidas/NN

@@ -1,0 +1,15 @@
+hay/NN fever/NN
+bread/NN pudding/NN
+field/NN llamas/NN
+barn/NN hay/NN
+goat/NN meat/NN
+hay/NN burns/VB
+fish/NN swim/VB
+llamas/NN spit/VB
+people/NN run/VB
+ride/VB donkeys/NN
+make/VB hay/NN
+desert/NN hay/NN
+dogs/NN bark/VB
+birds/NN fly/VB
+eat/VB drink/VB
